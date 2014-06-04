@@ -4,6 +4,8 @@ AdAway is an open source ad blocker for Android using the hosts file.
 
 For more information visit http://adaway.org
 
+This fork adds flashable zip installation to allow this application to write to /system in the next version of Android, Android 4.5/5.0.
+
 # Build with Gradle
 
 ## Build Executables
